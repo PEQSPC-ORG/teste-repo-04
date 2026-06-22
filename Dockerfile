@@ -1,5 +1,5 @@
 # =============================================================================
-# Node.js (TypeScript) — multi-stage build teste 123 2131312313131
+# Node.js (TypeScript) — multi-stage build
 # =============================================================================
 FROM node:20-alpine AS builder
 
